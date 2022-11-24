@@ -1,0 +1,15 @@
+E:\ADS-Codes\Felps\Riot\Riot\Riot\bin\Debug\Riot.exe.config
+E:\ADS-Codes\Felps\Riot\Riot\Riot\bin\Debug\Riot.exe
+E:\ADS-Codes\Felps\Riot\Riot\Riot\bin\Debug\Riot.pdb
+E:\ADS-Codes\Felps\Riot\Riot\Riot\obj\Debug\Riot.csproj.AssemblyReference.cache
+E:\ADS-Codes\Felps\Riot\Riot\Riot\obj\Debug\Riot.csproj.SuggestedBindingRedirects.cache
+E:\ADS-Codes\Felps\Riot\Riot\Riot\obj\Debug\Riot.Riot.resources
+E:\ADS-Codes\Felps\Riot\Riot\Riot\obj\Debug\Riot.Properties.Resources.resources
+E:\ADS-Codes\Felps\Riot\Riot\Riot\obj\Debug\Riot.csproj.GenerateResource.cache
+E:\ADS-Codes\Felps\Riot\Riot\Riot\obj\Debug\Riot.csproj.CoreCompileInputs.cache
+E:\ADS-Codes\Felps\Riot\Riot\Riot\obj\Debug\Riot.exe
+E:\ADS-Codes\Felps\Riot\Riot\Riot\obj\Debug\Riot.pdb
+E:\ADS-Codes\Felps\Riot\Riot\Riot\obj\Debug\Riot.PaginaPrincipal.resources
+E:\ADS-Codes\Felps\Riot\Riot\Riot\obj\Debug\Riot.Consutar.resources
+E:\ADS-Codes\Felps\Riot\Riot\Riot\bin\Debug\MySql.Data.dll
+E:\ADS-Codes\Felps\Riot\Riot\Riot\obj\Debug\Riot.csproj.CopyComplete
